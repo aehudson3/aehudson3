@@ -25,6 +25,9 @@ Do unto others as you would have them do unto you.
 
 Interests
 -Building up & Leveraging Enterprise Knowledge Bases to deliver actionable insights
+  -Big Data
+  -ML, AI, BI
+-Self-hosting Free & Open Source Software as an alternative to commonly used proprietary/closed-source services
 
 Current Topics of Life-long Learning
 -Flutter
@@ -41,6 +44,12 @@ Current Topics of Life-long Learning
 -Data Structures & Algorithms
   -Building upon previous coursework with Data Structures and Program Design in C++, ISBN 9780137689958
 
+Follow-on Certifications & Graduate Programs
+-Weighing the viability of continuing graduate education via a Master of Science in Data Science with Texas Tech University's Rawls College of Business.
+-Preparing for Certifications:
+  -Linux Foundation Certified IT Associate  (LFCA), https://training.linuxfoundation.org/certification/certified-it-associate/
+  -Linux Foundation Certified System Administrator (LFCS), https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/
+  -Kubestronaut (KCNA + KCSA + CKA + CKAD + CKS), https://training.linuxfoundation.org/certification/kubestronaut-bundle/
   
 
 
