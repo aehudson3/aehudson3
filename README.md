@@ -30,19 +30,16 @@ Interests
 -Self-hosting Free & Open Source Software as an alternative to commonly used proprietary/closed-source services
 
 Current Topics of Life-long Learning
--Flutter
-  -Going through Flutter In Action, https://www.manning.com/books/flutter-in-action
-  -Reasons
-    -Exploring cross-platform development
-    -Comparative study of Dart as a programming language
-    -Determining if Flutter can provide a basis for future MVPs
--D3.js
-  -Going through Data Visualization with D3.js, https://www.freecodecamp.org/news/data-visualizatoin-with-d3/
-    -Reasons
-      -Story-telling with Data is the crucial element driving data-driven communication among both technical & non-technical decision makers.
-      -Data Exploration, Discovery & Visualization will play increasingly important roles in daily life as our technology-enabled society progresses.
+-Exploring cross-platform development
+  -Flutter
+    -Going through Flutter In Action; https://www.manning.com/books/flutter-in-action
+  -React Native
+    -Mobile App Development Course with React Native, Supabase, Next.js; https://www.freecodecamp.org/news/mobile-app-development-course-with-react-native-supabase-nextjs/
+-Data Exploration, Discovery & Visualization
+  -D3.js
+    -Going through Data Visualization with D3.js; https://www.freecodecamp.org/news/data-visualizatoin-with-d3/
 -Data Structures & Algorithms
-  -Building upon previous coursework with Data Structures and Program Design in C++, ISBN 9780137689958
+  -Building upon previous coursework with Data Structures and Program Design in C++; ISBN 9780137689958
 
 Follow-on Certifications & Graduate Programs
 -Weighing the viability of continuing graduate education via a Master of Science in Data Science with Texas Tech University's Rawls College of Business.
