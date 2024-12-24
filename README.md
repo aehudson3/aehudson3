@@ -17,13 +17,15 @@ I am currently enrolled at the University of Central Oklahoma and seeking a degr
 - Exploring cross-platform development<br/>
   - Flutter<br/>
     - Going through [Flutter In Action](https://www.manning.com/books/flutter-in-action)
+    - [Official Learning Documentation](https://flutter.dev/learn)
   - React Native
-    - [Mobile App Development Course with React Native, Supabase, Next.js](https://www.freecodecamp.org/news/mobile-app-development-course-with-react-native-supabase-nextjs/)<br/>
+    - [Mobile App Development Course with React Native, Supabase, Next.js](https://www.freecodecamp.org/news/mobile-app-development-course-with-react-native-supabase-nextjs/)
+    - [Official Learning Documentation](https://reactnative.dev/docs/getting-started)
 - Data Exploration, Discovery & Visualization
   - D3.js
     - Going through [Data Visualization with D3.js](https://www.freecodecamp.org/news/data-visualizatoin-with-d3/)
 - Data Structures & Algorithms
-  - Building upon previous coursework with Data Structures and Program Design in C++; ISBN 9780137689958<br/>
+  - Building upon previous coursework with the [Data Structures and Program Design in C++](https://isbnsearch.org/isbn/9780137689958) textbook<br/>
 
 ### Follow-on Certifications & Graduate Programs
 - Weighing the viability of continuing graduate education via a Master of Science in Data Science
