@@ -15,7 +15,8 @@ I am currently enrolled at the University of Central Oklahoma and seeking a degr
 
 ### Current Topics of Life-long Learning<br/>
 - Full Stack w/JavaScript
-  - Progressing through [Full Stack Open](https://fullstackopen.com/en/about) offered by the University of Helsinki
+  - Progressing through [Full Stack Open (FSO)](https://fullstackopen.com/en/about) offered by the University of Helsinki
+    - Considering [ElysiaJS](https://elysiajs.com/) upon completion of FSO
 - Exploring cross-platform development<br/>
   - Flutter<br/>
     - Going through [Flutter In Action](https://www.manning.com/books/flutter-in-action)
