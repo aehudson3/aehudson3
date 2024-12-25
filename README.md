@@ -14,6 +14,8 @@ I am currently enrolled at the University of Central Oklahoma and seeking a degr
 - Self-hosting Free & Open Source Software as an alternative to commonly used proprietary/closed-source services<br/>
 
 ### Current Topics of Life-long Learning<br/>
+- Full Stack w/JavaScript
+  - Progressing through [Full Stack Open](https://fullstackopen.com/en/about) offered by the University of Helsinki
 - Exploring cross-platform development<br/>
   - Flutter<br/>
     - Going through [Flutter In Action](https://www.manning.com/books/flutter-in-action)
@@ -32,9 +34,9 @@ I am currently enrolled at the University of Central Oklahoma and seeking a degr
   - [Texas Tech University, Rawls College of Business](https://www.depts.ttu.edu/rawlsbusiness/graduate/ms/datascience/)
   - [University of Oklahoma, Spears School of Business ](https://go.okstate.edu/graduate-academics/programs/masters/business-analytics-and-data-science-ms.html)
 - Preparing for Certifications:
-  - [Linux Foundation Certified IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) (LFCA)<
+  - [Linux Foundation Certified IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) (LFCA)
   - [Linux Foundation Certified System Administrator](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) (LFCS)
   - [Kubestronaut](https://training.linuxfoundation.org/certification/kubestronaut-bundle/) (KCNA + KCSA + CKA + CKAD + CKS)<br/>
   
 # Get in contact with me via a [<ins>email</ins>](career@watchtower.slmail.me).
-I would love to hear from you if you want to discuss anything related to Software Engineering.
+I would love to hear from you if you want to discuss anything related to ::Software Engineering.
