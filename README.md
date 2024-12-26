@@ -40,4 +40,4 @@ I am currently enrolled at the University of Central Oklahoma and seeking a degr
   - [Kubestronaut](https://training.linuxfoundation.org/certification/kubestronaut-bundle/) (KCNA + KCSA + CKA + CKAD + CKS)<br/>
   
 # Get in contact with me via a [<ins>email</ins>](career@watchtower.slmail.me).
-I would love to hear from you if you want to discuss anything related to ::Software Engineering.
+I would love to hear from you if you want to discuss anything related to 💻 Software Engineering.
