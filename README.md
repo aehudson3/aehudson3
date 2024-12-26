@@ -7,10 +7,10 @@ I am currently enrolled at the University of Central Oklahoma and seeking a degr
 > Do unto others as you would have them do unto you.<br/>
 
 ### Interests
-- Building up & Leveraging Enterprise Knowledge Bases to deliver actionable insights through _data-driven_ Storytelling.<br/>
-  - Big Data<br/>
-  - ML, AI, BI<br/>
-  - Visualizations<br/>
+- Building & Leveraging Enterprise Knowledge Bases to deliver actionable insights through _data-driven Storytelling_.<br/>
+  - Big Data
+  - ML, AI, BI
+  - Data Visualization & Exploration
 - Self-hosting Free & Open Source Software as an alternative to commonly used proprietary/closed-source services<br/>
 
 ### Current Topics of Life-long Learning<br/>
