@@ -8,7 +8,7 @@ I am a Senior at the University of Central Oklahoma. Since my desire is to solve
 
 ### General Interests
 - Developing Cross-Platform Applications
-- - Building & Leveraging Knowledge Bases to deliver actionable insights through _data-driven Storytelling_.
+- Building & Leveraging Knowledge Bases to deliver actionable insights through _data-driven Storytelling_.
   - Big Data
   - AI/ML
   - BI
