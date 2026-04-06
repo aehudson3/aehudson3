@@ -1,7 +1,7 @@
 # Hello there! I am Andrew.
 
 ## About Me
-I am a Senior at the University of Central Oklahoma. Since my desire is to solve problems and provide value-added solutions for both people and organizations, I chose to major in Software Engineering. The goal is to build enterprise-grade software using deliberate engineering principles and practices.
+I am a Senior at the University of Central Oklahoma. Since my desire is to solve problems and provide value-added solutions for both people and organizations, I chose to major in Software Engineering. Indeed, my goal is to build enterprise-grade software using deliberate engineering principles and practices so as to delight each stakeholder.
 
 ### Driving Principle
 > Do unto others as you would have them do unto you.
@@ -29,6 +29,7 @@ I am a Senior at the University of Central Oklahoma. Since my desire is to solve
     - Otavia
 - Exploring cross-platform development
   - Progressive Web Applications
+    - [PWAs on web.dev](https://web.dev/explore/progressive-web-apps)
   - Flutter
     - [Official Learning Documentation](https://flutter.dev/learn)
     - [Flutter In Action](https://www.manning.com/books/flutter-in-action)
@@ -37,9 +38,9 @@ I am a Senior at the University of Central Oklahoma. Since my desire is to solve
     - [Mobile App Development Course with React Native, Supabase, Next.js](https://www.freecodecamp.org/news/mobile-app-development-course-with-react-native-supabase-nextjs/)
 
 ### Considering Follow-on Certifications & Graduate Programs
-- Weighing the viability of continuing graduate education via a Master of Science in Data Science
+- Weighing the viability of continuing graduate education via a Master of Science
+  - [Oklahoma State University, Spears School of Business](https://osuonline.okstate.edu/programs/graduate/business-analytics-master-of-science)
   - [Texas Tech University, Rawls College of Business](https://www.depts.ttu.edu/rawlsbusiness/graduate/ms/datascience/)
-  - [University of Oklahoma, Spears School of Business ](https://go.okstate.edu/graduate-academics/programs/masters/business-analytics-and-data-science-ms.html)
 
 # Get in contact with me via a [<ins>email</ins>](career@watchtower.slmail.me).
 I would love to hear from you if you want to discuss anything related to 💻 Software Engineering and Data Science.
